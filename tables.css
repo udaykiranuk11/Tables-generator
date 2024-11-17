@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body,html{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+#tableNumber{
+padding: 5px;
+margin-top: 15px;
+margin-left: 15px;
+}
+#tableOutput{
+    margin-right: 250px;
+    padding-top: 8px;
+}
+#generateTableBtn{
+padding: 10px;    
+margin-top: 15px;
+margin-left:5px;
+background-color: rgb(94, 222, 94);  
+border: none;
+font-weight: 700;
+border-radius: 10px;  
+font-size: large;
+}
+#tableOutput{
+    font-weight: 700;
+    font-size: x-large;
+}
